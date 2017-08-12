@@ -1,0 +1,35 @@
+
+
+/*.App-header-body {
+    margin: 0 auto;
+    padding: 90px 20px 0;
+    max-width: 805px;
+    color: #fff;
+    text-align: center;
+    max-height: 100%;
+}
+
+.Body-title {
+    font-size: 44px;
+    line-height: 1.32;
+    letter-spacing: 1px;
+    margin: 0 0 30px;
+}
+
+.Body-description {
+    font-size: 16px;
+    color: hsla(0,0%,100%,.8);
+    max-width: 620px;
+    margin: 0 auto 58px;
+}
+
+.head-footer {
+    width: 100%;
+    height: 56px;
+    background-color: rgb(232, 232, 232);
+}*/
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
